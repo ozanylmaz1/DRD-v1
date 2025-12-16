@@ -4,7 +4,7 @@ class HeroSliderComponent {
         this.currentSlide = 0;
         this.slides = [];
         this.isTransitioning = false;
-        this.autoPlayInterval = null; // Otomatik oynatma için
+        this.autoPlayInterval = null; // Otomatik oynatma iÃ§in
         this.autoPlayDelay = 5000; // 5 saniye
     }
 
@@ -14,12 +14,12 @@ class HeroSliderComponent {
             <div class="hero-slider" aria-label="Hero Slider">
                 <div class="slides-wrap">
                     <ul class="slides" role="list" id="hero-slides">
-                        <a href="/tr/arac-kiralama" class="slide" id="slide-link-1" data-src="https://drdcmsv2.taigalab.com/Files/img/home-page/slider/drd-filo-kiralama-banner-talebi-2-1920x1080-72dpi-1-1.jpg" aria-hidden="false" id="slide-1">
-                            <div class="bg" style="background-image:url('https://drdcmsv2.taigalab.com/Files/img/home-page/slider/drd-filo-kiralama-banner-talebi-2-1920x1080-72dpi-1-1.jpg')"></div>
+                        <a href="/tr/arac-kiralama" class="slide" id="slide-link-1" data-src="https://s3img.sm.mncdn.com/mnresize/1600/650/Files/Final/Anasayfa-slider/teklif-al-banner-desktop-2x.png" aria-hidden="false" id="slide-1">
+                            <div class="bg" style="background-image:url('https://s3img.sm.mncdn.com/mnresize/1600/650/Files/Final/Anasayfa-slider/teklif-al-banner-desktop-2x.png')"></div>
                         </a>
 
-                        <a  href="/tr/arac-kiralama" class="slide" id="slide-link-2" data-src="https://drdcmsv2.taigalab.com/Files/img/home-page/slider/drd-filo-kiralama-banner-talebi-2-1920x1080-72dpi-3.jpg" aria-hidden="true" id="slide-2">
-                            <div class="bg" style="background-image:url('https://drdcmsv2.taigalab.com/Files/img/home-page/slider/drd-filo-kiralama-banner-talebi-2-1920x1080-72dpi-3.jpg')"></div>
+                        <a  href="/tr/arac-kiralama" class="slide" id="slide-link-2" data-src="https://s3img.sm.mncdn.com/mnresize/1600/650/Files/Final/Anasayfa-slider/fleetino-banner-desktop-2x.png" aria-hidden="true" id="slide-2">
+                            <div class="bg" style="background-image:url('https://s3img.sm.mncdn.com/mnresize/1600/650/Files/Final/Anasayfa-slider/fleetino-banner-desktop-2x.png')"></div>
 
                         </a>
                     </ul>
@@ -64,23 +64,23 @@ class HeroSliderComponent {
         this.prevBtn.addEventListener('click', () => this.previousSlide());
         this.nextBtn.addEventListener('click', () => this.nextSlide());
 
-        // Ýlk yüklemede nav butonlarýný güncelle
+        // Ãlk yÃ¼klemede nav butonlarÃ½nÃ½ gÃ¼ncelle
         this.updateNavButtons();
 
         // Mouse events for dragging
         this.addMouseEvents();
 
-        // Otomatik oynatmayý baþlat
+        // Otomatik oynatmayÃ½ baÃ¾lat
         this.startAutoPlay();
 
         // Prevent context menu on captions
         this.preventContextMenu();
     }
     startAutoPlay() {
-        this.stopAutoPlay(); // Önce mevcut interval'i temizle
+        this.stopAutoPlay(); // Ã–nce mevcut interval'i temizle
 
         this.autoPlayInterval = setInterval(() => {
-            // Son slide'daysa baþa dön
+            // Son slide'daysa baÃ¾a dÃ¶n
             if (this.currentSlide === this.slides.length - 1) {
                 this.currentSlide = 0;
             } else {
@@ -100,11 +100,11 @@ class HeroSliderComponent {
     nextSlide() {
         if (this.isTransitioning) return;
 
-        // Otomatik oynatmayý sýfýrla
+        // Otomatik oynatmayÃ½ sÃ½fÃ½rla
         this.startAutoPlay();
 
         if (this.currentSlide === this.slides.length - 1) {
-            this.currentSlide = 0; // Baþa dön
+            this.currentSlide = 0; // BaÃ¾a dÃ¶n
         } else {
             this.currentSlide++;
         }
@@ -114,7 +114,7 @@ class HeroSliderComponent {
     previousSlide() {
         if (this.isTransitioning) return;
 
-        // Otomatik oynatmayý sýfýrla
+        // Otomatik oynatmayÃ½ sÃ½fÃ½rla
         this.startAutoPlay();
 
         if (this.currentSlide === 0) {
@@ -137,7 +137,7 @@ class HeroSliderComponent {
         const translateX = -this.currentSlide * 100;
         this.slidesContainer.style.transform = `translateX(${translateX}%)`;
 
-        // Nav butonlarýnýn durumunu güncelle
+        // Nav butonlarÃ½nÃ½n durumunu gÃ¼ncelle
         this.updateNavButtons();
 
         // Reset transition after animation
@@ -147,7 +147,7 @@ class HeroSliderComponent {
     }
 
     updateNavButtons() {
-        // Ýlk slide'dayýz - sol butonu devre dýþý býrak
+        // Ãlk slide'dayÃ½z - sol butonu devre dÃ½Ã¾Ã½ bÃ½rak
         if (this.currentSlide === 0) {
             this.prevBtn.classList.add('disabled');
             this.prevBtn.setAttribute('aria-disabled', 'true');
@@ -156,7 +156,7 @@ class HeroSliderComponent {
             this.prevBtn.setAttribute('aria-disabled', 'false');
         }
 
-        // Son slide'dayýz - sað butonu devre dýþý býrak
+        // Son slide'dayÃ½z - saÃ° butonu devre dÃ½Ã¾Ã½ bÃ½rak
         if (this.currentSlide === this.slides.length - 1) {
             this.nextBtn.classList.add('disabled');
             this.nextBtn.setAttribute('aria-disabled', 'true');
@@ -171,7 +171,7 @@ class HeroSliderComponent {
         let currentX = 0;
         let isDragging = false;
 
-        // Mouse hover'da otomatik oynatmayý durdur
+        // Mouse hover'da otomatik oynatmayÃ½ durdur
         this.slidesContainer.addEventListener('mouseenter', () => {
             this.stopAutoPlay();
         });
