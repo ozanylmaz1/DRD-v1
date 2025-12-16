@@ -25,35 +25,35 @@
                              alt="Audi" />
                     </a>
                     <a id="brands-card-3" href="brands3">
-                        <img id="brands-image-3" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/bmw-logo.png"
+                        <img id="brands-image-3" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/bmw.png"
                              alt="BMW" />
                     </a>
                     <a id="brands-card-4" href="brands4">
-                        <img id="brands-image-4" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/byd-logo.png"
+                        <img id="brands-image-4" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/byd.png"
                              alt="BYD" />
                     </a>
                     <a id="brands-card-5" href="brands5">
-                        <img id="brands-image-5" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/citroen-logo.png"
+                        <img id="brands-image-5" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/citroen.png"
                              alt="Citroen" />
                     </a>
                     <a id="brands-card-6" href="brands6">
-                        <img id="brands-image-6" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/cupra-logo.png"
+                        <img id="brands-image-6" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/cupra.png"
                              alt="Cupra" />
                     </a>
                     <a id="brands-card-7" href="brands7">
-                        <img id="brands-image-7" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/dacia-logo.png"
+                        <img id="brands-image-7" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/dacia.png"
                              alt="Dacia" />
                     </a>
                     <a id="brands-card-8" href="brands8">
-                        <img id="brands-image-8" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/Fiat-Logo.png"
+                        <img id="brands-image-8" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/Fiat.png"
                              alt="Fiat" />
                     </a>
                     <a id="brands-card-9" href="brands9">
-                        <img id="brands-image-9" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/ford-logo.png"
+                        <img id="brands-image-9" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/ford.png"
                              alt="Ford" />
                     </a>
                     <a id="brands-card-10" href="brands10">
-                        <img id="brands-image-10" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/jeep-logo.png"
+                        <img id="brands-image-10" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/jeep.png"
                              alt="Jeep" />
                     </a>
                 </div>
