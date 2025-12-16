@@ -17,7 +17,7 @@
                 </div>
                 <div id="car-models-main" class="car-models-main">
                     <a id="car-card-1" href="sedan-35-tfsi-150-advanced-s-tronic.html">
-                        <img id="car-image-1" src="https://s3img.sm.mncdn.com/mnresize/365/242/Files/img/CarImages/2025/alfa-romeo-tonale-ti-16-diesel-130-dct/alfa-romeo-tonale-ti-16-diesel-130-dct-2.jpg"
+                        <img id="car-image-1" src="https://s3img.sm.mncdn.com/mnresize/365/242/Files/img/CarImages/2025/alfa-romeo-tonale-ti-16-diesel-130-dct/alfa-romeo-tonale-ti-16-diesel-130-dct-1.jpg"
                              alt="Alfa-Romeo-Tonale-Veloce-Hybrid-eAWD" />
                         <h6 id="car-name-1" class="car-name">
                             Alfa Romeo Tonale Veloce 1.3 280 Plug-ın Hybrid eAWD
@@ -53,7 +53,7 @@
                         </p>
                     </a>
                     <a id="car-card-4" href="car4">
-                        <img id="car-image-4" src="https://s3img.sm.mncdn.com/mnresize/365/242/Files/cars/dacia-sandero/dacia-sandero-2.png"
+                        <img id="car-image-4" src="https://s3img.sm.mncdn.com/mnresize/365/242/Files/cars/dacia-sandero/dacia-sandero-1.png"
                              alt="dacia-lodgy-stepway-15-bluedcl-115-7k-e6d-full" />
                         <h6 id="car-name-4" class="car-name">
                             Dacia Lodgy Stepway 1.5 BlueDCl 115 7K E6D Full
@@ -65,7 +65,7 @@
                         </p>
                     </a>
                     <a id="car-card-5" href="car5">
-                        <img id="car-image-5" src="https://drdcmsv2.taigalab.com/Files/img/CarImages/2025/peugeot-3008-allure-15-bluehdi-130-eat8/peugeot-3008-allure-15-bluehdi-130-eat8-1.jpg"
+                        <img id="car-image-5" src="https://s3img.sm.mncdn.com/mnresize/365/242/Files/cars/peugeot-3008/peugeot-3008-1.png"
                              alt="peugeot-3008-allure-15-bluehdi-130-eat8" />
                         <h6 id="car-name-5" class="car-name">
                              Peugeot 3008 Allure 1.5 BlueHDi 130 EAT8
@@ -77,7 +77,7 @@
                         </p>
                     </a>
                     <a id="car-card-6" href="car6">
-                        <img id="car-image-6" src="https://drdcmsv2.taigalab.com/Files/img/CarImages/2025/volkswagen-polo10-tsi-95-dsg-life/volkswagen-polo10-tsi-95-dsg-life-1.jpg"
+                        <img id="car-image-6" src="https://s3img.sm.mncdn.com/mnresize/365/242/Files/cars/volkswagen-polo/volkswagen-polo-10-tsi-95-comfortline-dsg-1.png"
                              alt="volkswagen-polo-10-tsi-95-dsg-style" />
                         <h6 id="car-name-6" class="car-name">
                             Volkswagen Polo 1.0 TSI 95 DSG Style
