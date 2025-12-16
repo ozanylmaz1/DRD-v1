@@ -9,7 +9,7 @@
     <div class="nav-top">
         <div class="nav-top-container">
             <a href="index.html">
-                <img id="nav-logo" class="logo" src="https://drdcmsv2.taigalab.com/Files/img/ortak-alan/drdlogorenkli.svg" alt="drdlogo" />
+                <img id="nav-logo" class="logo" src="https://s3img.sm.mncdn.com/Files/img/ortak-alan/drdlogorenkli.svg" alt="drdlogo" />
             </a>
 
             <div class="nav-top-right">
@@ -312,4 +312,5 @@
 }
 
 // Global olarak erişilebilir hale getir
+
 window.NavComponent = NavComponent;
