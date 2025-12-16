@@ -34,7 +34,7 @@
                         </a>
                     </span>
                 </div>
-                <img id="threesteps-image" src="https://drdcmsv2.taigalab.com/Files/img/ortak-alan/3adimdaarackiralayin.jpg" alt="Sadece 3 adımda yeni araçlarınızı kiralayın"/>
+                <img id="threesteps-image" src="https://s3img.sm.mncdn.com/mnresize/350/320/Files/Final/Anasayfa/anasayfa-2.png?format=webp" alt="Sadece 3 adımda yeni araçlarınızı kiralayın"/>
             </section>
         `;
     }
@@ -107,4 +107,5 @@
 
 // Global olarak erişilebilir hale getir
 window.ThreeStepsComponent = ThreeStepsComponent;
+
 
