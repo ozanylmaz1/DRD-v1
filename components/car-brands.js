@@ -45,7 +45,7 @@
                              alt="Dacia" />
                     </a>
                     <a id="brands-card-8" href="brands8">
-                        <img id="brands-image-8" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/markalar-1/Fiat.png"
+                        <img id="brands-image-8" src="https://s3img.sm.mncdn.com/mnresize/300/300/Files/Final/brands/fiat.png"
                              alt="Fiat" />
                     </a>
                     <a id="brands-card-9" href="brands9">
