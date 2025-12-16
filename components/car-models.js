@@ -17,7 +17,7 @@
                 </div>
                 <div id="car-models-main" class="car-models-main">
                     <a id="car-card-1" href="sedan-35-tfsi-150-advanced-s-tronic.html">
-                        <img id="car-image-1" src="https://drdcmsv2.taigalab.com/Files/img/CarImages/2025/alfa-romeo-tonale-ti-16-diesel-130-dct/alfa-romeo-tonale-ti-16-diesel-130-dct-1.jpg"
+                        <img id="car-image-1" src="https://s3img.sm.mncdn.com/mnresize/365/242/Files/img/CarImages/2025/alfa-romeo-tonale-ti-16-diesel-130-dct/alfa-romeo-tonale-ti-16-diesel-130-dct-2.jpg"
                              alt="Alfa-Romeo-Tonale-Veloce-Hybrid-eAWD" />
                         <h6 id="car-name-1" class="car-name">
                             Alfa Romeo Tonale Veloce 1.3 280 Plug-ın Hybrid eAWD
@@ -29,7 +29,7 @@
                         </p>
                     </a>
                     <a id="car-card-2" href="car2">
-                        <img id="car-image-2" src="https://drdcmsv2.taigalab.com/Files/img/CarImages/2025/audi-a6-40-20-tdi-quattro-204-design-s-tronic/audi-a6-40-20-tdi-quattro-204-design-s-tronic-1.jpg"
+                        <img id="car-image-2" src="https://s3img.sm.mncdn.com/mnresize/365/242/Files/img/CarImages/2025/audi-a6/audi-a6-1.png"
                              alt="Audi-A6-40-TDI-Quattro" />
                         <h6 id="car-name-2" class="car-name">
                             Audi A6 40 2.0 TDI Quattro 204 Design S Tronic
@@ -41,7 +41,7 @@
                         </p>
                     </a>
                     <a id="car-card-3" href="car3">
-                        <img id="car-image-3" src="https://drdcmsv2.taigalab.com/Files/img/CarImages/2025/bmw-520d-xdrive-sedan-20-190-m-sport/bmw-520d-xdrive-sedan-20-190-m-sport-1.jpg"
+                        <img id="car-image-3" src="https://s3img.sm.mncdn.com/mnresize/365/242/Files/cars/bmw-520d/bmw-520d-xdrive-sedan-1.png"
                              alt="BMW-520d-xDrive-Sedan" />
                         <h6 id="car-name-3" class="car-name">
                             BMW 520d xDrive Sedan 2.0 190 M Sport
@@ -53,7 +53,7 @@
                         </p>
                     </a>
                     <a id="car-card-4" href="car4">
-                        <img id="car-image-4" src="https://drdcmsv2.taigalab.com/Files/img/CarImages/2025/dacia-lodgy-stepway-15-bluedci-115-7k-e6d-full/dacia-lodgy-stepway-15-bluedci-115-7k-e6d-full-1.jpg"
+                        <img id="car-image-4" src="https://s3img.sm.mncdn.com/mnresize/365/242/Files/cars/dacia-sandero/dacia-sandero-2.png"
                              alt="dacia-lodgy-stepway-15-bluedcl-115-7k-e6d-full" />
                         <h6 id="car-name-4" class="car-name">
                             Dacia Lodgy Stepway 1.5 BlueDCl 115 7K E6D Full
