@@ -1,5 +1,5 @@
 ﻿.newsletter {
-    background-image: url('https://drdcmsv2.taigalab.com/Files/img/ortak-alan/firsatlardanhaberdarolun_01.jpg');
+    background-image: url('https://s3img.sm.mncdn.com/mnresize/1300/300/Files/firsatlardan-haberdar-olun.png');
     background-size: cover;
     background-position: center;
     background-color: rgba(0, 0, 0, 0.5);
@@ -144,3 +144,4 @@
         padding: 18px 10vw;
     }
 }
+
