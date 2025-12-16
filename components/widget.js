@@ -7,7 +7,7 @@
         return `
             <section id="widget-section" class="widget">
                 <article id="widget-card-1" class="widget-card">
-                    <img id="widget-image-1" src="https://drdcmsv2.taigalab.com/Files/img/Two-column/drd_web_2.png" alt="Fleetino telefon illüstrasyonu" class="phones-img" width="250">
+                    <img id="widget-image-1" src="https://s3img.sm.mncdn.com/mnresize/350/320/Files/img/Two-column/drd_web_2.png?format=webp" alt="Fleetino telefon illüstrasyonu" class="phones-img" width="250">
 
                     <div id="widget-content-1" class="widget-content">
                         <h2 id="widget-title-1">Fleetino ile tanışın</h2>
@@ -22,7 +22,7 @@
                 </article>
 
                 <article id="widget-card-2" class="widget-card" >
-                    <img id="widget-image-2" src="https://drdcmsv2.taigalab.com/Files/img/Two-column/drd_web_1.png" alt="Yeni model araba" class="car-img" width="250">
+                    <img id="widget-image-2" src="https://s3img.sm.mncdn.com/mnresize/350/320/Files/img/Two-column/drd_web_1.png?format=webp" alt="Yeni model araba" class="car-img" width="250">
 
                     <div id="widget-content-2" class="widget-content">
                         <h2 id="widget-title-2">En yeni modeller<br>DRD'de</h2>
